@@ -1,0 +1,44 @@
+.main-home2{
+    position: relative;
+    .home-2{
+        padding: 15px 0px 6px 5px;
+        background-image: url("../../image/bg-05.e2dd8b42.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        position: absolute;
+        transform: translateY(-20px);
+        width: 100%;
+        
+        .menubook{
+          .menub{
+              font-size: 50px;
+              color: #fff;
+              font-weight: 300;
+              margin-right: 15px;
+          }
+        }
+        .course-info{
+            text-align: left;
+            color: #fff;
+            font-family: Muli,sans-serif;
+            font-size: 1.25rem;
+            h5{
+             font-family: Muli,sans-serif;
+             font-weight: 700;
+             letter-spacing: -.5px;
+             display: inline-block;
+             letter-spacing: -1px;
+             margin-bottom: 0;
+             line-height: 0;
+            }
+            p{
+             font-size: 1.125rem;
+            }
+        }
+    }
+}
+
+// end//////
+

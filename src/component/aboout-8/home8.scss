@@ -1,0 +1,43 @@
+.home-8{
+    background-image: url("../../image/bg-01.e08b3b72.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 60px 0px;
+
+     .review{
+        background-color: #fff;
+        border-radius: 4px;
+        position: relative;
+        padding: 50px;
+        text-align: left;
+        .nail-ico{
+            width:5%;
+            position: absolute;
+            top: 4%;
+            left: 4.7%;
+            opacity: 0.3;
+        }
+        p{
+            color: #757575;
+            font-size: 1.15rem;
+            line-height: 1.4;
+            font-weight: 400;
+            margin-bottom: 15px;
+        }
+        .review-autho{
+            h5{
+                font-size: 1.25rem;
+                margin-bottom: 5px;
+                line-height: 1;
+                color: #283034;
+                font-weight: 700;
+            }
+            p{
+                color: #858585;
+            }
+        }
+     }
+}
+
+// end//////

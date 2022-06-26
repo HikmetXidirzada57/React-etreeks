@@ -1,0 +1,10 @@
+.red{
+    padding: 25px;
+    .profile-image{
+        img{
+            object-fit: cover;
+            vertical-align: middle;
+            height: 200px;
+        }
+    }
+}
